@@ -6,10 +6,10 @@ While my industrial projects are proprietary, this repository showcases personal
 
 You can connect with me here:
 
-E-mail: ibrahimbendaya@gmail.com
+- E-mail: ibrahimbendaya@gmail.com
 
-[LinkedIn](https://www.linkedin.com/in/ibrahim-ben-daya-phd-4764a580/): Professional network and career updates.
+- [LinkedIn](https://www.linkedin.com/in/ibrahim-ben-daya-phd-4764a580/)
 
-[Google Scholar](https://scholar.google.com/citations?user=xYW8X_0AAAAJ&hl=en): Publications and academic contributions.
+- [Google Scholar](https://scholar.google.com/citations?user=xYW8X_0AAAAJ&hl=en)
 
 Feel free to explore, and thank you for stopping by!
